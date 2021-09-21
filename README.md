@@ -1,4 +1,5 @@
-# This is Molly's playground!
+# This is our playground!
+# Playground / Sandbox!
 
 A place to play with `git`.
 
